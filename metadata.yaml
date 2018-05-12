@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9547'
     url: http://www.gutenberg.org/2009/agents/9547
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20828#Traditions-of-the-North-American-Indians-Vol.-3
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2007-03-15'
 gutenberg_type: Text
